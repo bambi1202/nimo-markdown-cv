@@ -94,7 +94,7 @@ h1 strong {
 h2 {
 	font-family: "Avenir Next",sans-serif;
 	/* font-size: 20pt; */
-	font-size: 150%;
+	font-size: 100%;
 	text-align: center;
 	font-weight: normal;
 	display: flex;
@@ -116,7 +116,7 @@ h3 strong {
 }
 
 h3 {
-	margin-top: 10px;
+	margin-top: 5px;
 }
 
 
@@ -146,7 +146,7 @@ li {
 	font-weight: lighter;
 	color: #ccc;
 	/* font-family: Menlo,monospace,sans-serif; */
-	font-size: 80%;
+	font-size: 50%;
 }
 
 #contact-info a {
