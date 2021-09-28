@@ -40,55 +40,53 @@ Nomishi, Japan
 ```
 Guangzhou, China
 ```
-- B.A. in Animation, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.A. in Animation, CGPA:3.31/4.00
+-School of Art & Design
+
+### __Vellore Institute of Technology__ `2013.9 - 2017.10`
+```
+Vellore, India
+```
+- B.S. in Animation, CGPA:3.31/4.00
+- School of Information Technology & Engineering
 
 ## Publications
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+### [__Two-Stage Motion Editing Interface for Character Animation__](https://computeranimation.org/program.html)
+__Yichen Peng\*__, Chunqi Zhao\*, Zhengyu Huang, Tsukasa Fukusato, Haoran Xie, and Kazunori Miyata.<br>  _SCA '21: The ACM SIGGRAPH / Eurographics Symposium on Computer Animation_ <br>
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3475946.3480960)]
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+### [__Sketch-Based Human Motion Retrieval via Shadow Guidance__](https://www.art-science.org/nicograph/nicoint2021/)
+ __Yichen Peng__, Zhengyu Huang, Chunqi Zhao, Haoran Xie, Tsukasa Fukusato, and Kazunori Miyata.<br>  _NICOGRAPH International 2021_ <br>
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9515948)]
+[[video](https://www.youtube.com/watch?v=8k2kgDi2DfM)
+
+### [__dualFace: Two-Stage Drawing Guidance for Freehand Portrait Sketching__](http://iccvm.org/2021/)
+Zhengyu Huang, __Yichen Peng__, Tomohiro Hibino, Chunqi Zhao, Haoran Xie, Tsukasa Fukusato, and Kazunori Miyata.<br>  _Computational Visual Media Journal (Special issue of CVM2021)_ <br>
+[[PDF](https://arxiv.org/pdf/2104.12297.pdf)]
+[[repo](https://github.com/shasph/dualFace/)]
+[[video](https://www.youtube.com/watch?v=29nrIwo1t10)
+[[news](https://zhuanlan.zhihu.com/p/375791062)
+
+### [__dSketch2Domino: Interactive Chain Reaction Design and Guidance__](https://www.art-science.org/nicograph/nicoint2020/)
+__Yichen Peng__, Yuki Mishima, Yamato Igarashi, Ryoma Miyauchi, Masahiro Okawa, Haoran Xie and Kazunori Miyata.<br> (Best Paper Award)(Best Online Presentation Award (Paper)) _NICOGRAPH International 2020_ <br>
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9122361]
+[[video](https://www.youtube.com/watch?v=ArXv5EGGQTA)
+[[news](https://www.itmedia.co.jp/news/articles/2108/24/news059.html)
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
+### __Japan advanced Institute of Science and Technology & the University of Tokyo__  `2021.04`
+__DeepSketch__ is a research group co-advised by [Haoran Xie](http://www.jaist.ac.jp/~xie/), [Tsukasa Fukusato](https://sites.google.com/view/tsukasafukusato/about-me-j) and [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1).
 
 ## Teaching
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
+Teaching Assistant, __Media Creation__ `JAIST, 2020 - 2021` <br>
 
 ## Honors & Awards
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Doctoral Research Fellow (DRF) Special adoption `JAIST, 2021.04~2024.03` <br>
+映像情報メディア学会北陸支部優秀学生賞 `ITE, 2021.03` <br>
 
 <!-- ### Footer
 
