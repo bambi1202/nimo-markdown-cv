@@ -47,16 +47,16 @@ Guangzhou, China
 ## Publications
 
 ### [__Two-Stage Motion Editing Interface for Character Animation__](https://computeranimation.org/program.html)`SCA 2021`
-__Yichen Peng\*__, Chunqi Zhao\*, Zhengyu Huang, Tsukasa Fukusato, Haoran Xie, and Kazunori Miyata.<br>  _SCA '21: The ACM SIGGRAPH / Eurographics Symposium on Computer Animation_ <br>
+__Yichen Peng\*__, Chunqi Zhao\*, Zhengyu Huang, Tsukasa Fukusato, Haoran Xie, and Kazunori Miyata. _SCA '21: The ACM SIGGRAPH / Eurographics Symposium on Computer Animation_
 
 ### [__dualFace: Two-Stage Drawing Guidance for Freehand Portrait Sketching__](http://iccvm.org/2021/)`CVM 2021`
-Zhengyu Huang, __Yichen Peng__, Tomohiro Hibino, Chunqi Zhao, Haoran Xie, Tsukasa Fukusato, and Kazunori Miyata.<br>  _Computational Visual Media Journal (Special issue of CVM2021)_ <br>
+Zhengyu Huang, __Yichen Peng__, Tomohiro Hibino, Chunqi Zhao, Haoran Xie, Tsukasa Fukusato, and Kazunori Miyata. _Computational Visual Media Journal (Special issue of CVM2021)_ 
 
 ### [__Sketch2Domino: Interactive Chain Reaction Design and Guidance__](https://www.art-science.org/nicograph/nicoint2020/)`NICOGRAPH International 2020`
-__Yichen Peng__, Yuki Mishima, Yamato Igarashi, Ryoma Miyauchi, Masahiro Okawa, Haoran Xie and Kazunori Miyata.<br> __(Best Paper Award)(Best Online Presentation Award (Paper))__ _NICOGRAPH International 2020_ <br>
+__Yichen Peng__, Yuki Mishima, Yamato Igarashi, Ryoma Miyauchi, Masahiro Okawa, Haoran Xie and Kazunori Miyata. __(Best Paper Award)(Best Online Presentation Award (Paper))__ _NICOGRAPH International 2020_ 
 
 ### [__BalloonFAB: Digital Fabrication of Large-Scale Balloon Art__](https://chi2019.acm.org/)`CHI 2019`
-Haoran Xie, __Yichen Peng__, Naiyun Chen, Dazhao Xie, Chia-Ming Chang, and Kazunori Miyata.<br> _ACM SIGCHI 2019_ <br>
+Haoran Xie, __Yichen Peng__, Naiyun Chen, Dazhao Xie, Chia-Ming Chang, and Kazunori Miyata. _ACM SIGCHI 2019_ 
 
 
 ## Experience
