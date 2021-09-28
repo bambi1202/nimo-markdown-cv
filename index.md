@@ -36,19 +36,12 @@ Nomishi, Japan
 - B.S. in Knowledge Science
 - Supervised by [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1)
 
-### __Guangdong University of Technology__ `2013.9 - 2017.6`
+### __Guangdong University of Technology(GDUT) & Vellore Institute of Technology(VIT)__ `2013.9 - 2017.6`
 ```
 Guangzhou, China
 ```
-- B.A. in Animation, CGPA:3.31/4.00
-- School of Art & Design
-
-### __Vellore Institute of Technology__ `2013.9 - 2017.10`
-```
-Vellore, India
-```
-- B.S. in Animation, CGPA:3.31/4.00
-- School of Information Technology & Engineering
+- __B.A. & B.S.__ in Animation, CGPA:3.31/4.00
+- School of Art & Design (GDUT) & School of Information Technology & Engineering (VIT)
 
 ## Publications
 
