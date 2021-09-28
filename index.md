@@ -9,7 +9,7 @@ homepage:
     text: sites.google.com/view/yichen-peng/home
 phone: +81 08040992316
 ---
-# Yichen __Peng__
+## Yichen __Peng__
 
 <!--
 include contact information from the front matter
