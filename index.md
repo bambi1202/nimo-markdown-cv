@@ -41,7 +41,8 @@ Nomishi, Japan
 Guangzhou, China
 ```
 - __B.A. & B.S.__ in Animation, CGPA:3.31/4.00
-- School of Art & Design (GDUT) & School of Information Technology & Engineering (VIT)
+- School of Art & Design (GDUT) 
+- School of Information Technology & Engineering (VIT)
 
 ## Publications
 
