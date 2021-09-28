@@ -82,17 +82,23 @@ Haoran Xie, __Yichen Peng__, Naiyun Chen, Dazhao Xie, Chia-Ming Chang, and Kazun
 
 ## Experience
 
-### __Japan advanced Institute of Science and Technology & the University of Tokyo__  `2021.04`
+### __DeepSketch__  `JAIST & Utokyo 2020.04 ~`
 __DeepSketch__ is a research group co-advised by [Haoran Xie](http://www.jaist.ac.jp/~xie/), [Tsukasa Fukusato](https://sites.google.com/view/tsukasafukusato/about-me-j) and [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1).
 
-## Teaching
-
-Teaching Assistant, __Media Creation__ `JAIST, 2020 - 2021` <br>
+### __Japan advanced Institute of Science and Technology__  `JAIST 2021.04`
+Teaching Assistant, __Media Creation__ `JAIST, 2020 ~ 2021` <br>
 
 ## Honors & Awards
 
 Doctoral Research Fellow (DRF) Special adoption `JAIST, 2021.04~2024.03` <br>
 映像情報メディア学会北陸支部優秀学生賞 `ITE, 2021.03` <br>
+
+## Technical Strengths
+### __Programming__
+JavaScript, Python, C++
+
+### __Languages__
+English, Japanese, Cantonese, Chinese
 
 <!-- ### Footer
 
