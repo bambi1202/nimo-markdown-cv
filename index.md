@@ -1,14 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Yichen Peng
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
+    url: mailto:yichen.peng@jaist.ac.jp
+    text: yichen.peng@jaist.ac.jp
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: https://sites.google.com/view/yichen-peng/home
+    text: sites.google.com/view/yichen-peng/home
+phone: +81 08040992316
 ---
-# Wode __Ni__
+# Yichen __Peng__
 
 <!--
 include contact information from the front matter
@@ -21,25 +22,25 @@ Supported arguments:
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __Japan advanced institute of Science and Technology__ `2021.4 -`
 ```
-Pittsburgh, PA
+Nomishi, Japan
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. in Information Science
+- Supervised by [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1)
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Japan advanced institute of Science and Technology__ `2018.10 - 2021.3`
 ```
-New York, NY
+Nomishi, Japan
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- B.S. in Knowledge Science
+- Supervised by [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1)
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __Guangdong University of Technology__ `2013.9 - 2017.6`
 ```
-Carlisle, PA
+Guangzhou, China
 ```
-- B.S. in Computer Science, _Summa Cum Laude_
+- B.A. in Animation, _Summa Cum Laude_
 - Computer Science Departmental Honors
 
 ## Publications
