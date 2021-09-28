@@ -69,8 +69,8 @@ Zhengyu Huang, __Yichen Peng__, Tomohiro Hibino, Chunqi Zhao, Haoran Xie, Tsukas
 [[news](https://zhuanlan.zhihu.com/p/375791062)]
 
 ### [__dSketch2Domino: Interactive Chain Reaction Design and Guidance__](https://www.art-science.org/nicograph/nicoint2020/)`NICOGRAPH International 2020`
-__Yichen Peng__, Yuki Mishima, Yamato Igarashi, Ryoma Miyauchi, Masahiro Okawa, Haoran Xie and Kazunori Miyata.<br> (Best Paper Award)(Best Online Presentation Award (Paper)) _NICOGRAPH International 2020_ <br>
-[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9122361]
+__Yichen Peng__, Yuki Mishima, Yamato Igarashi, Ryoma Miyauchi, Masahiro Okawa, Haoran Xie and Kazunori Miyata.<br> __(Best Paper Award)(Best Online Presentation Award (Paper))__ _NICOGRAPH International 2020_ <br>
+[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9122361)]
 [[video](https://www.youtube.com/watch?v=ArXv5EGGQTA)]
 [[news](https://www.itmedia.co.jp/news/articles/2108/24/news059.html)]
 
