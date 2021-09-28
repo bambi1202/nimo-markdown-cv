@@ -82,8 +82,8 @@ Haoran Xie, __Yichen Peng__, Naiyun Chen, Dazhao Xie, Chia-Ming Chang, and Kazun
 
 ## Experience
 
-### __DeepSketch__  `JAIST & Utokyo 2020.04 ~`
-__DeepSketch__ is a research group co-advised by [Haoran Xie](http://www.jaist.ac.jp/~xie/), [Tsukasa Fukusato](https://sites.google.com/view/tsukasafukusato/about-me-j) and [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1).
+### __Sketch-based Interface for Deep Learning__  `JAIST & Utokyo 2020.04 ~`
+Research group, co-advised by [Haoran Xie](http://www.jaist.ac.jp/~xie/), [Tsukasa Fukusato](https://sites.google.com/view/tsukasafukusato/about-me-j) and [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1).
 
 ### __Japan advanced Institute of Science and Technology__  `JAIST 2021.04`
 Teaching Assistant, __Media Creation__ `JAIST, 2020 ~ 2021` <br>
