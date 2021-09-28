@@ -55,10 +55,6 @@ Vellore, India
 ### [__Two-Stage Motion Editing Interface for Character Animation__](https://computeranimation.org/program.html)`SCA 2021`
 __Yichen Peng\*__, Chunqi Zhao\*, Zhengyu Huang, Tsukasa Fukusato, Haoran Xie, and Kazunori Miyata.<br>  _SCA '21: The ACM SIGGRAPH / Eurographics Symposium on Computer Animation_ <br>
 
-
-### [__Sketch-Based Human Motion Retrieval via Shadow Guidance__](https://www.art-science.org/nicograph/nicoint2021/)`NICOGRAPH International 2021`
- __Yichen Peng__, Zhengyu Huang, Chunqi Zhao, Haoran Xie, Tsukasa Fukusato, and Kazunori Miyata.<br>  _NICOGRAPH International 2021_ <br>
-
 ### [__dualFace: Two-Stage Drawing Guidance for Freehand Portrait Sketching__](http://iccvm.org/2021/)`CVM 2021`
 Zhengyu Huang, __Yichen Peng__, Tomohiro Hibino, Chunqi Zhao, Haoran Xie, Tsukasa Fukusato, and Kazunori Miyata.<br>  _Computational Visual Media Journal (Special issue of CVM2021)_ <br>
 
