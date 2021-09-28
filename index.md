@@ -52,7 +52,7 @@ Vellore, India
 
 ## Publications
 
-### [__Two-Stage Motion Editing Interface for Character Animation__](https://computeranimation.org/program.html)`SCA '21`
+### [__Two-Stage Motion Editing Interface for Character Animation__](https://computeranimation.org/program.html)`SCA 2021`
 __Yichen Peng\*__, Chunqi Zhao\*, Zhengyu Huang, Tsukasa Fukusato, Haoran Xie, and Kazunori Miyata.<br>  _SCA '21: The ACM SIGGRAPH / Eurographics Symposium on Computer Animation_ <br>
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3475946.3480960)]
 
@@ -82,15 +82,15 @@ Haoran Xie, __Yichen Peng__, Naiyun Chen, Dazhao Xie, Chia-Ming Chang, and Kazun
 
 ## Experience
 
-### __Sketch-based Interface for Deep Learning__  `JAIST & Utokyo 2020.04 ~`
+### __Sketch-based Interface for Deep Learning__  `JAIST & Utokyo 2020.04 -`
 Research group, co-advised by [Haoran Xie](http://www.jaist.ac.jp/~xie/), [Tsukasa Fukusato](https://sites.google.com/view/tsukasafukusato/about-me-j) and [Kazunori Miyata](https://fp.jaist.ac.jp/public/Default2.aspx?id=309&l=1).
 
-### __Japan advanced Institute of Science and Technology__  `JAIST 2021.04`
-Teaching Assistant, __Media Creation__ `JAIST, 2020 ~ 2021` <br>
+### __Japan advanced Institute of Science and Technology__  `JAIST, 2020 - 2021`
+Teaching Assistant, __Media Creation__ 
 
 ## Honors & Awards
 
-Doctoral Research Fellow (DRF) Special adoption `JAIST, 2021.04~2024.03` <br>
+Doctoral Research Fellow (DRF) Special adoption `JAIST, 2021.04 - 2024.03` <br>
 映像情報メディア学会北陸支部優秀学生賞 `ITE, 2021.03` <br>
 
 ## Technical Strengths
