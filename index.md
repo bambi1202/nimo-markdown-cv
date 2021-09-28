@@ -41,7 +41,7 @@ Nomishi, Japan
 Guangzhou, China
 ```
 - B.A. in Animation, CGPA:3.31/4.00
--School of Art & Design
+- School of Art & Design
 
 ### __Vellore Institute of Technology__ `2013.9 - 2017.10`
 ```
