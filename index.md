@@ -77,7 +77,7 @@ Doctoral Research Fellow (DRF) Special adoption `JAIST, 2021.04 - 2024.03` <br>
 JavaScript, Python, C++
 
 ### __Languages__
-English(TOEIC 850), Japanese(JLPT N1), Cantonese(Bi-lingual), Chinese(Bi-lingual)
+English _(TOEIC 850)_, Japanese _(JLPT N1)_, Cantonese & Chinese _(Bi-lingual)_
 
 <!-- ### Footer
 
